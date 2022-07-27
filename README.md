@@ -1,7 +1,7 @@
 # requirement-for-coffee-pooring
 
 
-#AI Requirement 
+# AI Requirement 
   
   The robot shall be able to navigate and move in the area 
   
@@ -9,7 +9,7 @@
   
   
   
-#IOT Requirement
+# IOT Requirement
   
   The robot shall connect to the internet 
   
@@ -19,12 +19,12 @@
   
   The robot shall be able to convert the text into speech where it can speak. 
 
-#Mechanical Requirement
+# Mechanical Requirement
 
   The robot shall be able to balance while holding the coffee pot in one hand and the cups in the other hand.
   
   
-#Electronics Requirement 
+# Electronics Requirement 
   
   The robot shall be able to save its balance for a time 
   
